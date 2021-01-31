@@ -1,8 +1,0 @@
-# Required core dependencies -
-fuzzywuzzy
-python-Levenshtein
-beautifulsoup4
-requests
-Pillow
-youtube-dl
-pymumble==1.5

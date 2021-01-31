@@ -1,9 +1,0 @@
-alias,command
-v,(volume)
-l,(loop)
-q,(queue)
-now,(playing)
-clr,(clear)
-next,(skip)
-rp,(replay)
-as,(audiostatus)
